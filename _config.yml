@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Here's My Blog to provide you some info about me 
+author: Tushar Sonwane
+email: sonwanetushar3001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog guys! Myself Tushar Sonwane and I am an engineering student with Computer Science as background.
+  Speaking about me in a brief , I am guy who is interested in tech ,I constantly seek opportunities to learn as much as possible about emerging technologies.
+  Despite of having my interests in Tech as a whole, I am a little bit inclined more towards web technologies.
+  So watch this space for further updates as I'll keep updating this blog with some Amazing content for Tech Enthusiasts like me . I am very excited to start this blog , so lets learn and grow together ! 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: TusharSonwane15 # DO NOT include the @ character, or else the build will fail!
+github_username:  tusharsonwane   # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
